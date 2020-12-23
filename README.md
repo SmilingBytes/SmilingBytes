@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ismailkuet" target="blank"><img src="https://img.shields.io/twitter/follow/ismailkuet?logo=twitter&style=for-the-badge" alt="ismailkuet" /></a> </p>
 
-- 🔭 I’m currently working on [Bongoshad](https://bongoshad.com)
+- 🔭 Recent Project [Bongoshad](https://bongoshad.com)
 
-- 🤝 I’m looking for help with [Nessley.com](https://nessley.com)
+- 🤝 I’m looking for help with Collage ERP system.
 
 - 📫 How to reach me **ismail.KUET@gmail.com**
 
