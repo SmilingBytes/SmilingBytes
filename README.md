@@ -19,6 +19,6 @@
 <a href="https://www.topcoder.com/members/ismailkuet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="ismailkuet" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beymax&show_icons=true&locale=en&layout=compact" alt="beymax" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailKUET&show_icons=true&locale=en&layout=compact" alt="ismailKUET" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beymax&show_icons=true&locale=en" alt="beymax" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailKUET&show_icons=true&locale=en" alt="ismailKUET" /></p>
