@@ -5,9 +5,13 @@
 Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Python, Odoo, Django, Javascript, and Management. Strong engineering professional with a Bachelor of Science (BSc) focused in Electronics & Communication Engineering from Khulna University of Engineering and Technology (KUET).
 
 <br />
+
 - 👀 I’m interested in Python.
+
 - 🌱 I’m currently learning Nodejs
+
 - 📫 How to reach me **ismail.kuet@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
