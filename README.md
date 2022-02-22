@@ -7,18 +7,24 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 <br />
 
 - 👀 I’m interested in Python.
-
+- 📚 I'm constantly learning new skills and striving for progress
 - 🌱 I’m currently learning Nodejs
-
+- 🏆 Goal: Be the person I needed when I was younger
 - 📫 How to reach me **ismail.kuet@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ismail H Rana | Twitter" height="30" width="40" />][twitter]
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ismail H Rana | LinkedIn" height="30" width="40" />][linkedin]
+  
   <a href="https://linkedin.com/in/ismailkuet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ismailkuet" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/smile_forever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smile_forever" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/ismailkuet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ismailkuet" height="30" width="40" /></a>
   <a href="https://twitter.com/ismailkuet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ismailkuet" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail-h-rana&show_icons=true&locale=en&layout=compact" alt="Ismail H Rana" /> &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=ismail-h-rana&show_icons=true&locale=en" alt="Ismail H Rana" /></p>
+
+
+[twitter]: https://twitter.com/ismailkuet
+[linkedin]: https://linkedin.com/in/ismailkuet
+[codechef]: https://www.codechef.com/users/smile_forever
