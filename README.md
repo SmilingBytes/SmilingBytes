@@ -8,7 +8,7 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 
 - 👀 I’m interested in Python.
 - 📚 I'm constantly learning new skills and striving for progress
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning AWS
 - 🏆 Goal: Be the person I needed when I was younger
 - 📫 How to reach me **ismail.kuet@gmail.com**
 
