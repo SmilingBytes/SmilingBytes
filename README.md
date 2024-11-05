@@ -24,3 +24,5 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 
 ![LeetCode Status](https://leetcard.jacoblin.cool/smile_forever?theme=dark&font=Roboto&ext=activity)
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=smile_forever&animated=true" alt="LeetCode Badges"/>
+
